@@ -11,6 +11,7 @@ import Grilli from '../assets/grilli.png'
 import Cards from './Cards'
 import Skywings from '../assets/skywings.png'
 import Rental from '../assets/Rental.png'
+import Supercars from '../assets/supercars.png'
 
 const Projects = () => {
 
@@ -91,6 +92,13 @@ const Projects = () => {
           image: `${Rental}`,
           live: "https://azim0122.github.io/RENTAL/#",
           github: "https://github.com/Azim0122/RENTAL"
+        },
+        {
+          title: 'Super Cars',
+          desc: 'Working with Webelite Builders was a seamless experience. They brought our vision to life with a modern, responsive website.',
+          image: `${Supercars}`,
+          live: "https://supercars1.netlify.app/",
+          github: "https://github.com/Azim0122/Supercars"
         },
       ];
 
