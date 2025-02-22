@@ -10,7 +10,7 @@ import gta from '../assets/gta.png'
 import Grilli from '../assets/grilli.png'
 import Cards from './Cards'
 import Skywings from '../assets/skywings.png'
-import Rental from '../assets/rental.png'
+import Rental from '../assets/Rental.png'
 
 const Projects = () => {
 
