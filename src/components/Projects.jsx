@@ -1,5 +1,5 @@
 import React from 'react'
-import Portfolio from '../assets/Portfolio.png'
+import Portfolio from '../assets/portfolio.png'
 import Wikipedia from '../assets/wikipedia.png'
 import Youtube from '../assets/Youtube.png'
 import Ai from '../assets/ai.png'
